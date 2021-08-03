@@ -1,0 +1,30 @@
+	---------------------- Como jogar -------------------------
+	
+	Jogo feito em 24/06/2019 - 18:30h - por Gabrielle Araújo.
+
+	Cada caixa pode ter: 
+	Dano, Tesouro, ou Vida ao ser aberta.
+	
+	O jogo possui 2 jogadores e 20 rodadas.
+
+	Cada jogador inicia com: 
+	um Nome,
+	3 Vidas,
+	Pontuação zerada, e
+	10 pontos de Força.
+
+	A posição escolhida escolhida pelo jogador ele pode: 
+	sofrer Dano de -1, -2, -3, ou -4 pontos de Força,
+	ganhar um Tesouro de +10 pontos em sua Pontuação,
+	ganhar +1 ponto de Vida, ou
+	encontrar uma caixa vazia.
+
+	O jogo acaba quando: 
+	um dos 2 jogadores perde todas as vidas, 
+	ou quando o número de rodadas chega a zero.
+
+	O vencedor é o jogador que possuir maior Pontuação,
+	caso a pontuação seja igual, o que tiver mais Vidas,
+	caso as vidas também sejam iguais, o que tiver mais Força,
+	caso a força também seja igual, deu Empate.
+
